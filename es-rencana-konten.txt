@@ -4,7 +4,8 @@ RENCANA KONTEN
 3) Video belajar php
    a) php dasar
    b) framework php
-      - symfony
-      - cake php
-4) Video belajar python
+      - codeigniter
+      - laravel
+4) Video belajar java dasar
+5) Video belajar python
    - framework django
