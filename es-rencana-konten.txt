@@ -8,3 +8,4 @@ RENCANA KONTEN
       - laravel
 4) Video belajar java dasar
 5) Video belajar python
+   - framework django
